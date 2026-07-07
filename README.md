@@ -1,4 +1,4 @@
-uild an AI-powered IMS consulting assistant that helps organizations understand, maintain, analyze, and safely enhance complex IBM IMS applications.
+Build an AI-powered IMS consulting assistant that helps organizations understand, maintain, analyze, and safely enhance complex IBM IMS applications.
 
 Primary Users
 
